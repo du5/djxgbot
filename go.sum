@@ -1,5 +1,3 @@
-github.com/CodyGuo/godaemon v0.0.0-20200413142854-c36b39fdd071 h1:GFI7Rs86D4qip+tBvMcv0ux5kHbngC0rNWfgpTeVoAQ=
-github.com/CodyGuo/godaemon v0.0.0-20200413142854-c36b39fdd071/go.mod h1:VBC/JvjvRkcgE7wMjDJs7Y94Ta6KSpCWDquUKW+WbJo=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=

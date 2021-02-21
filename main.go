@@ -5,14 +5,13 @@ import (
 	"os"
 	"time"
 
-	_ "github.com/CodyGuo/godaemon"
 	tb "gopkg.in/tucnak/telebot.v2"
 )
 
 func main() {
 	var token string
-	if len(os.Args) == 3 {
-		token = os.Args[2]
+	if len(os.Args) == 2 {
+		token = os.Args[1]
 	}
 	b, err := tb.NewBot(tb.Settings{
 		Token:  token,
